@@ -1,0 +1,55 @@
+{
+  "_from": "flickrrand",
+  "_id": "flickrrand@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-yrPG68o2y93EGOS5Pe4f7Yb7CdpP1LTHXv9vtoFG4pFPrlccxp6Dkur17pZBtc0Vz0YN8Q/cBmMyyZcYP92kXA==",
+  "_location": "/flickrrand",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "flickrrand",
+    "name": "flickrrand",
+    "escapedName": "flickrrand",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/flickrrand/-/flickrrand-1.0.5.tgz",
+  "_shasum": "a46bd716bc89ee34b92889fdb2d9f2c8d165ef98",
+  "_spec": "flickrrand",
+  "_where": "C:\\WIP\\test",
+  "author": {
+    "name": "Ray Terrill"
+  },
+  "bugs": {
+    "url": "https://github.com/rayterrill/flickrrand/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "flickr-sdk": "^3.5.0"
+  },
+  "deprecated": false,
+  "description": "A node module to pull a random image from a specific Flickr user's timeline",
+  "homepage": "https://github.com/rayterrill/flickrrand#readme",
+  "keywords": [
+    "flickr",
+    "node",
+    "npm"
+  ],
+  "license": "MIT",
+  "main": "app.js",
+  "name": "flickrrand",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayterrill/flickrrand.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.10"
+}
